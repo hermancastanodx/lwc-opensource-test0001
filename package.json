@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/hermancastanodx.lwc-l5c775pp-fork-l5c78wjo",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve A45zwlvgnlQtorK7Jrbw --open"
+  }
+}
